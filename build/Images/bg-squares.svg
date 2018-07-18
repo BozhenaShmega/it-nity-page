@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1360" viewBox="0 0 1440 1360">
+    <g fill="#424242" fill-opacity=".03" fill-rule="evenodd" transform="translate(-130)">
+        <rect width="200" height="200" y="20" rx="6"/>
+        <rect width="200" height="200" x="71" y="120" rx="6"/>
+        <rect width="200" height="200" x="936" y="120" rx="6"/>
+        <rect width="200" height="200" x="1500" y="250" rx="6"/>
+        <rect width="200" height="200" x="1360" y="350" rx="6"/>
+        <rect width="200" height="200" x="780" rx="6"/>
+        <rect width="200" height="200" x="780" y="414" rx="6"/>
+        <rect width="200" height="200" x="936" y="487" rx="6"/>
+        <rect width="200" height="200" x="880" y="660" rx="6"/>
+        <rect width="200" height="200" x="836" y="1105" rx="6"/>
+        <rect width="200" height="200" x="1500" y="814" rx="6"/>
+        <rect width="200" height="200" x="70" y="614" rx="6"/>
+        <rect width="200" height="200" x="431" y="760" rx="6"/>
+        <rect width="200" height="200" x="531" y="714" rx="6"/>
+        <rect width="200" height="200" x="470" y="860" rx="6"/>
+        <rect width="200" height="200" x="231" y="1105" rx="6"/>
+        <rect width="200" height="200" x="880" y="1160" rx="6"/>
+    </g>
+</svg>
